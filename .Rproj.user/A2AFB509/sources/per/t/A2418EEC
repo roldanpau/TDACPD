@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1662301551887.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2482793433",
+    "id" : "A2418EEC",
+    "lastKnownWriteTime" : 1662321781,
+    "last_content_update" : 1662321781119,
+    "path" : "~/research/TDACPD/mixture_of_normals.R",
+    "project_path" : "mixture_of_normals.R",
+    "properties" : {
+        "cursorPosition" : "105,2",
+        "scrollLine" : "28"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

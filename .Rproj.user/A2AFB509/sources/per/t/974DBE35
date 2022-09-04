@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1662321889003.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3655881081",
+    "id" : "974DBE35",
+    "lastKnownWriteTime" : 1662322931,
+    "last_content_update" : 1662322931319,
+    "path" : "~/research/TDACPD/normal_to_mixture.R",
+    "project_path" : "normal_to_mixture.R",
+    "properties" : {
+        "cursorPosition" : "64,13",
+        "scrollLine" : "46",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1662320418094.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3846604827",
+    "id" : "D8AEC80",
+    "lastKnownWriteTime" : 1662321805,
+    "last_content_update" : 1662321805219,
+    "path" : "~/research/TDACPD/normal.R",
+    "project_path" : "normal.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
